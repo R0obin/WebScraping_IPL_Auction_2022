@@ -1,5 +1,3 @@
-# WebScraping_IPL_Auction_2022
-
 # IPL 2022 Auction Web Scraping
 
 ## Overview
